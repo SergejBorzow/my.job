@@ -170,4 +170,4 @@
 
 Серьёзный конфликт в git при слиянии ![Серьезный конфликт при слиянии](merge_conflict_diagram.png)
 
-Конфликт на GitHub ![конфликт GitHub]()
+Конфликт на GitHub ![конфликт GitHub](cnopka.png)
